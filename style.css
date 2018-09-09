@@ -74,7 +74,7 @@ html, body{
 
 @include media-breakpoint-up(xs) {
     .title {
-        font-size: 150%;
+        font-size: 200%;
         text-shadow: 1px 1px 5px gray;
     }
   }
