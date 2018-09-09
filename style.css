@@ -37,6 +37,10 @@ html, body{
     padding-left: 10px;
 }
 
+.padding_comp {
+    padding-left: 40px;
+}
+
 .h_comparison{
     width: 92%;
     position: center;
@@ -60,9 +64,6 @@ html, body{
         font-size: 200%;
         text-shadow: 1px 1px 5px gray;
     }
-    .padding_comp {
-        padding-left: 40px;
-    }
   }
 @media (max-width: 768px) {
     .title {
@@ -76,7 +77,4 @@ html, body{
     .title {
         font-size: 125%;
     }   
-    .padding_comp {
-        padding-left: 10px;
-    }
 }
