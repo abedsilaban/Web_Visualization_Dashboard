@@ -69,10 +69,12 @@ html, body{
   
 }
 @media (max-width: 576px) {
+    
+}
+
+@include media-breakpoint-up(xs) {
     .title {
         font-size: 50%;
         text-shadow: 1px 1px 5px gray;
     }
-
-
-}
+  }
