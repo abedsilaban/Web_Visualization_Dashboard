@@ -8,7 +8,6 @@ html, body{
 }
 
 .title {
-    font-size: 200%;
     text-shadow: 1px 1px 5px gray;
 }
 
@@ -61,11 +60,16 @@ html, body{
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
-
+    .title {
+        font-size: 200%;
+        text-shadow: 1px 1px 5px gray;
+    }
   }
 @media (max-width: 768px) {
   
 }
 @media (max-width: 576px) {
-  
+
+
+
 }
