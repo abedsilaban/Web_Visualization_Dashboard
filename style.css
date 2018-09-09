@@ -7,10 +7,6 @@ html, body{
     font-family: 'Poppins', sans-serif;
 }
 
-.nav-link{
-    color: darkblue;
-}
-
 .title {
     font-size: 200%;
     text-shadow: 1px 1px 5px gray;
